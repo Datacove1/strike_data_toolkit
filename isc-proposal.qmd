@@ -1,11 +1,15 @@
 ---
-title: "Proposal Title"
+title: "Open-Source R Toolkit for Collecting Strike Action Data"
 author:
-  - name: Annie Easley
-    orcid: 5555-5555-5555-5555
+  - name: Jeremy Horne
     affiliations:
-      - "Lewis Research Center, National Aeronautics and Space Administration"
-
+      - "Datacove Ltd"
+  - name: Laura Mawer
+    affiliations:
+      - "Datacove Ltd"
+  - name: Abbie Brookes
+    affiliations:
+      - "Datacove Ltd"
 date: today
 date-format: iso
 format:
