@@ -1,22 +1,21 @@
-# Success
-<!--
-Projects should have a definition of done that is measurable, and a
-thorough understanding going in of what the risks are to delivery
--->
+# Measuring Success
 
-## Definition of done
-<!--
-What does success look like?
--->
+The project will be considered successful when the following criteria are met:
+•	a working open-source toolkit capable of collecting and structuring strike data
+•	reproducible generation of a clean, analysis-ready dataset
+•	comprehensive documentation enabling new users to run the toolkit independently
+•	publication of the codebase in a public repository
+•	evidence of use in academic or analytical workflows, including time series or econometric applications
+Additional indicators of success may include community feedback, issue reports, and contributions from external users following release.
 
-## Measuring success
-<!--
-How will we know when success is achieved, what markers can we use
-along the way
--->
+# Future Development
 
-## Future work
-<!--
-How could this be extended / developed in the future by yourself
-and/or the community in general?
--->
+The project is intentionally scoped as a foundation for future work.
+Potential extensions include:
+•	expanding geographic coverage and time periods
+•	integrating additional strike data sources
+•	evolving the toolkit into a fully packaged R library
+•	adding analytical utilities for summarisation and visualisation
+•	linking strike data with broader labour market datasets
+•	support for panel data structures and extended time series coverage
+By delivering a well-documented and extensible core tool, the project creates a foundation for ongoing development and collaboration within the R community.
