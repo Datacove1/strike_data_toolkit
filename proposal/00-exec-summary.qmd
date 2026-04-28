@@ -1,6 +1,11 @@
 # Executive Summary
 
-<!--
-This section provides a condensed view of the entire proposal, one page long.
-It should be a comprehensive high-level overview that captures the essence of the proposal, including its goals, methods, expected outcomes, deliverables, and budget.
--->
+Reliable, structured data on labour strike activity is essential for robust economic and policy analysis, yet it remains difficult to access in a reproducible format. Information about strikes is typically fragmented across multiple public sources, inconsistently formatted, and rarely available as a structured dataset suitable for empirical research. This gap presents a particular challenge for academic research, including econometrics and time series analysis, where consistent longitudinal data is essential for robust modelling and comparability across studies.
+
+This proposal outlines the development of an open-source R toolkit designed to programmatically collect, standardise, and prepare labour strike action data for analysis within the R ecosystem.
+
+The project will deliver a reproducible R script that retrieves strike related data from publicly available sources, applies transparent data cleaning and transformation steps, and produces standardised datasets suitable for analysis. By embedding these processes into reusable code, the project reduces the effort required for researchers and analysts to assemble strike datasets while improving transparency and reproducibility.
+
+The toolkit will follow established open-source development practices, including version control, documentation, and public repository hosting. The resulting tool will provide a reusable foundation for empirical research across economics, labour studies, public policy, journalism, and applied analytics.
+
+By addressing a clear gap in accessible labour dispute data, the project strengthens shared data infrastructure and supports reproducible research within the R ecosystem.
