@@ -1,7 +1,7 @@
 # Signatories
 No formal signatories at this stage. The project will be developed in the open, and feedback and contributions from the R community will be actively encouraged.
 
-## Project team
+# Project team
 The project will be delivered by Datacove Ltd, a data and analytics consultancy specialising in reproducible analytical workflows and production-grade R development.
 Datacove has experience delivering and maintaining R-based analytical tools for external organisations including marketing agencies, charities, and research groups.
 
@@ -15,10 +15,10 @@ Abbie and Laura are Data Scientists who will support delivery across data prepar
 
 They specialises in cleaning, structuring, and standardising complex datasets, ensuring outputs are consistent and analysis-ready. Their experience working with varied and inconsistent data sources directly aligns with the challenges addressed in this project.
 
-## Contributors
+# Contributors
 TBC
 
-## Consulted
+# Consulted
 External contributors will be encouraged to suggest improvements, propose new data sources, and extend the toolkit. This collaborative model supports long-term sustainability. The project is designed to support ongoing academic and applied research use cases, where consistent and reproducible data pipelines are essential.
 
 If community adoption and stability warrant it, the toolkit may later be prepared for submission to CRAN to support wider accessibility within the R ecosystem.
