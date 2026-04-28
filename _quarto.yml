@@ -1,4 +1,5 @@
 project:
   title: "Open-Source R Toolkit for Collecting Strike Action Data"
   render:
-    - strike-data-toolkit_proposal.qmd
+    - "*.qmd"
+    - "!proposal/"
