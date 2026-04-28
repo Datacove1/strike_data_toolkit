@@ -23,11 +23,11 @@ Retrieved data will be cleaned and standardised using reproducible transformatio
 **Standardised Dataset Output**
 The toolkit will generate structured datasets designed for immediate use in analytical workflows. Typical variables may include:
 - date of strike action
--	geographic location
--	industry or sector classification
+- geographic location
+- industry or sector classification
 - scale or participation estimates
--	strike duration
--	source metadata
+- strike duration
+- source metadata
 The structure will support straightforward use in time series and panel data workflows. This modular design ensures that new data sources or variables can be added without significant redesign.  
 
 # Deliverables
@@ -42,16 +42,16 @@ A clearly defined schema describing the structure of the strike dataset, ensurin
 
 **Documentation**
 Documentation will include:
--	clear instructions for installing and running the toolkit
--	descriptions of data sources and assumptions
--	variable definitions and example outputs
--	reproducible usage examples
+- clear instructions for installing and running the toolkit
+- descriptions of data sources and assumptions
+- variable definitions and example outputs
+- reproducible usage examples
 
 **Public Repository**
 The codebase will be hosted in a public GitHub repository containing:
--	source code and documentation
--	version control history
--	issue tracking and contribution guidelines
+- source code and documentation
+- version control history
+- issue tracking and contribution guidelines
 This open development model enables community participation and future improvements.
 
 **Example Dataset**
