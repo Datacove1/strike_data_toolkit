@@ -1,32 +1,26 @@
 # Signatories
-<!--
-This section provides the ISC with a view of the support received from
-the community for a proposal. Acceptance isn't predicated on
-popularity but community acceptance is important. Willingness to
-accept outside input is also a good marker for project delivery.
-
-An optional section would be for R-Core signatories where changes to R
-are proposed.
--->
+No formal signatories at this stage. The project will be developed in the open, and feedback and contributions from the R community will be actively encouraged.
 
 ## Project team
-<!--
-Who are the people responsible for actually delivering the project if
-the proposal gets accepted and are already signed up and rearing to
-go? Briefly describe all participants and the skills they will bring
-to the project.
--->
+The project will be delivered by Datacove Ltd, a data and analytics consultancy specialising in reproducible analytical workflows and production-grade R development.
+Datacove has experience delivering and maintaining R-based analytical tools for external organisations including marketing agencies, charities, and research groups.
+
+#### Jeremy Horne – Technical Lead
+Jeremy is a lead R developer and data scientist with over 20 years’ experience delivering analytical tools and data pipelines. He will lead all technical elements of the project, including data ingestion, transformation workflows, and toolkit design.
+
+He has extensive experience working with fragmented, real-world datasets and structuring them for analysis. This includes use of strike activity and similar external signals within Marketing Mix Models (MMMs), providing direct experience in preparing event-based data for time series analysis.
+
+#### Abbie Brookes and Laura Mawer – Data Scientists
+Abbie and Laura are Data Scientists who will support delivery across data preparation, development, testing, and documentation.
+
+They specialises in cleaning, structuring, and standardising complex datasets, ensuring outputs are consistent and analysis-ready. Their experience working with varied and inconsistent data sources directly aligns with the challenges addressed in this project.
 
 ## Contributors
-<!--
-Who are the people who have actively helped with this proposal but
-won't necessarily be on the core project team later?
--->
+TBC
 
 ## Consulted
-<!--
-Who has been given the opportunity to provide feedback on the
-proposal? This should include any R Consortium & ISC members who the
-proposal has been discussed with.
--->
+External contributors will be encouraged to suggest improvements, propose new data sources, and extend the toolkit. This collaborative model supports long-term sustainability. The project is designed to support ongoing academic and applied research use cases, where consistent and reproducible data pipelines are essential.
+
+If community adoption and stability warrant it, the toolkit may later be prepared for submission to CRAN to support wider accessibility within the R ecosystem.
+
 
