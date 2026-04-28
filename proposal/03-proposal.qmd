@@ -1,50 +1,47 @@
-# The proposal
-<!--
-How are you going to solve the problem? Include the concrete actions you
-will take and an estimated timeline. What are likely failure modes and
-how will you recover from them?
+# Proposal
 
-This is where the proposal should be outlined.
--->
+This project proposes the development of an open-source R toolkit that enables reproducible collection and preparation of labour strike data.
+The toolkit will allow users to:
+1.	Programmatically retrieve strike data from publicly available sources
+2.	Apply reproducible data cleaning and transformation workflows
+3.	Standardise datasets into a consistent schema
+4.	Produce analysis-ready outputs suitable for R analytical pipelines
+The project will follow established open-source practices, ensuring that the resulting tool can be reused, extended, and maintained by the broader community. This enables researchers to construct longitudinal datasets suitable for econometric and policy analysis.
 
-## Overview
-<!--
-At a high-level address what your proposal is and how it will address
-the problem identified. Highlight any benefits to the R Community that
-follow from solving the problem. This should be your most compelling
-section.
+## Implementation
+The toolkit will be developed as a modular R script with clearly defined components for data retrieval, processing, and output generation.
+### Data Collection
+Functions will retrieve strike data from publicly accessible sources using standard programmatic methods. These sources may include structured datasets or web-accessible data repositories.
+### Data Processing
+Retrieved data will be cleaned and standardised using reproducible transformation workflows based on widely adopted tidyverse conventions. This step harmonises formats, variable names, and data structures across sources.
+### Standardised Dataset Output
+The toolkit will generate structured datasets designed for immediate use in analytical workflows. Typical variables may include:
+•	date of strike action
+•	geographic location
+•	industry or sector classification
+•	scale or participation estimates
+•	strike duration
+•	source metadata
+The structure will support straightforward use in time series and panel data workflows. This modular design ensures that new data sources or variables can be added without significant redesign.  
 
-Include concrete actions you will take and estimated timeline.
--->
+## Deliverables
+The project will produce several concrete outputs designed to maximise usability and adoption.
+### Open-Source Toolkit
+A fully functional R script that programmatically collects and structures labour strike data from identified public sources.
+### Standardised Data Schema
+A clearly defined schema describing the structure of the strike dataset, ensuring consistency and transparency across outputs.
+### Documentation
+Documentation will include:
+•	clear instructions for installing and running the toolkit
+•	descriptions of data sources and assumptions
+•	variable definitions and example outputs
+•	reproducible usage examples
+### Public Repository
+The codebase will be hosted in a public GitHub repository containing:
+•	source code and documentation
+•	version control history
+•	issue tracking and contribution guidelines
+This open development model enables community participation and future improvements.
 
-## Detail
-<!--
-Go into more detail about the specifics of the project and how it delivers
-against the problem.
-
-Depending on project type the detail section should include:
--->
-
-### Minimum Viable Product
-
-<!--
-What is the smallest thing you can build that delivers value to your users?
--->
-
-### Architecture
-
-<!--
-What does the high-level architecture look like?
--->
-
-### Assumptions
-
-<!--
-What assumptions are you making that, if proven false, would invalidate the project?
--->
-
-### External dependencies
-
-<!--
-What external dependencies does the project have (e.g. libraries, services, other projects, etc.)?
--->
+### Example Dataset
+An initial dataset generated using the toolkit will be released alongside the codebase to demonstrate functionality and enable immediate use.
