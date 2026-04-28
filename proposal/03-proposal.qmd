@@ -59,6 +59,7 @@ Documentation will include:
 **Public Repository**
 
 The codebase will be hosted in a public GitHub repository containing:
+
 - source code and documentation
 - version control history
 - issue tracking and contribution guidelines
