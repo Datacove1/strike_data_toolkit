@@ -6,11 +6,13 @@ The project will be delivered by Datacove Ltd, a data and analytics consultancy 
 Datacove has experience delivering and maintaining R-based analytical tools for external organisations including marketing agencies, charities, and research groups.
 
 **Jeremy Horne – Technical Lead**
+
 Jeremy is a lead R developer and data scientist with over 20 years’ experience delivering analytical tools and data pipelines. He will lead all technical elements of the project, including data ingestion, transformation workflows, and toolkit design.
 
 He has extensive experience working with fragmented, real-world datasets and structuring them for analysis. This includes use of strike activity and similar external signals within Marketing Mix Models (MMMs), providing direct experience in preparing event-based data for time series analysis.
 
 **Abbie Brookes and Laura Mawer – Data Scientists**
+
 Abbie and Laura are Data Scientists who will support delivery across data preparation, development, testing, and documentation.
 
 They specialises in cleaning, structuring, and standardising complex datasets, ensuring outputs are consistent and analysis-ready. Their experience working with varied and inconsistent data sources directly aligns with the challenges addressed in this project.
