@@ -1,35 +1,47 @@
 # Timeline
 
 The project is designed as a focused implementation effort with clearly defined milestones. The total delivery time is seven working days.
-Day 1 – Project Setup
-•	creation of public repository
-•	definition of data schema
-•	confirmation of strike data sources
-Days 2-4 – Core Development
-•	implementation of programmatic data retrieval
-•	development of reproducible transformation workflows
-•	generation of structured dataset outputs
-Day 5 – Data Validation and Robustness
-•	handling inconsistencies across sources
-•	implementation of error handling and edge case processing
-•	validation of output structure
-Day 6 – Documentation and Examples
-•	preparation of documentation and usage guides
-•	creation of reproducible examples
-Day 7 – Finalisation and Release
-•	code refactoring and testing 
-•	final internal review
-•	publication of repository and documentation
+
+**Day 1 – Project Setup**
+
+-	creation of public repository
+-	definition of data schema
+-	confirmation of strike data sources
+
+**Days 2-4 – Core Development**
+
+-	implementation of programmatic data retrieval
+-	development of reproducible transformation workflows
+-	generation of structured dataset outputs
+
+**Day 5 – Data Validation and Robustness**
+
+-	handling inconsistencies across sources
+-	implementation of error handling and edge case processing
+-	validation of output structure
+
+**Day 6 – Documentation and Examples**
+
+-	preparation of documentation and usage guides
+-	creation of reproducible examples
+
+**Day 7 – Finalisation and Release**
+
+-	code refactoring and testing 
+-	final internal review
+-	publication of repository and documentation
 
 
 
 # Budget
 
-Milestone               |	Description	                                      | Duration |	Cost
-Project setup	          | Repository setup, schema design, planning         |	1 day	   | £895
-Core development	       | Data collection and transformation implementation |	3 days	  | £2,685
-Validation & robustness	| Error handling, consistency checks                |	1 day	   | £895
-Documentation & release |	Documentation, testing, refinement                |	2 days  	| £1,790
+| Milestone                | Description                                      | Duration | Cost   |
+|------------------------|--------------------------------------------------|----------|--------|
+| Project setup          | Repository setup, schema design, planning        | 1 day    | £895   |
+| Core development       | Data collection and transformation implementation| 3 days   | £2,685 |
+| Validation & robustness| Error handling, consistency checks               | 1 day    | £895   |
+| Documentation & release| Documentation, testing, refinement               | 2 days   | £1,790 |
 
-### Total funding requested: £6,265
+**Total funding requested: £6,265**
+
 No indirect costs, travel expenses, or external services are included.
