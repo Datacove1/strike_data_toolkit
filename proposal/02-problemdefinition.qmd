@@ -6,18 +6,18 @@ These sources vary widely in structure, formatting, variable definitions, and co
 
 **Who This Affects**
 The lack of accessible strike datasets affects a wide range of users including:
-•	economists conducting labour market and economic analysis
-•	social scientists researching industrial relations
-•	public policy analysts assessing labour disputes
-•	journalists and NGOs contextualising strike activity
-•	data scientists performing applied economic analysis
+- economists conducting labour market and economic analysis
+- social scientists researching industrial relations
+- public policy analysts assessing labour disputes
+- journalists and NGOs contextualising strike activity
+- data scientists performing applied economic analysis
 Many of these use cases rely on time series or panel-style datasets, which are difficult to construct reliably given the fragmented nature of current strike data sources. Researchers without the resources to curate bespoke datasets face particularly high barriers to entry.
 
 **Why This Matters**
 The absence of standardised strike data leads to:
-•	duplicated data collection efforts across institutions
-•	inconsistent data preparation methods
-•	limited transparency in research outputs
-•	reduced comparability across studies
+- duplicated data collection efforts across institutions
+- inconsistent data preparation methods
+- limited transparency in research outputs
+- reduced comparability across studies
 Providing reproducible infrastructure for collecting and structuring strike data will significantly reduce duplication, improve transparency, and support consistent longitudinal analysis.
 
