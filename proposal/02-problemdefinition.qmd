@@ -1,10 +1,10 @@
 # Problem 
 
-## The Challenge
+**The Challenge**
 Data on labour strike activity exists but is rarely distributed in a structured format suitable for reproducible analysis. Information on strike actions is dispersed across government publications, labour organisations, statistical releases, and other public sources.
 These sources vary widely in structure, formatting, variable definitions, and coverage. As a result, researchers frequently assemble strike datasets manually, which leads to inconsistent methodologies and limited reproducibility.
 
-## Who This Affects
+**Who This Affects**
 The lack of accessible strike datasets affects a wide range of users including:
 •	economists conducting labour market and economic analysis
 •	social scientists researching industrial relations
@@ -13,7 +13,7 @@ The lack of accessible strike datasets affects a wide range of users including:
 •	data scientists performing applied economic analysis
 Many of these use cases rely on time series or panel-style datasets, which are difficult to construct reliably given the fragmented nature of current strike data sources. Researchers without the resources to curate bespoke datasets face particularly high barriers to entry.
 
-## Why This Matters
+**Why This Matters**
 The absence of standardised strike data leads to:
 •	duplicated data collection efforts across institutions
 •	inconsistent data preparation methods
