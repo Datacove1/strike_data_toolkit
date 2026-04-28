@@ -1,6 +1,7 @@
 # Measuring Success
 
 The project will be considered successful when the following criteria are met:
+
 - a working open-source toolkit capable of collecting and structuring strike data
 - reproducible generation of a clean, analysis-ready dataset
 - comprehensive documentation enabling new users to run the toolkit independently
@@ -13,10 +14,12 @@ Additional indicators of success may include community feedback, issue reports, 
 
 The project is intentionally scoped as a foundation for future work.
 Potential extensions include:
+
 - expanding geographic coverage and time periods
 - integrating additional strike data sources
 - evolving the toolkit into a fully packaged R library
 - adding analytical utilities for summarisation and visualisation
 - linking strike data with broader labour market datasets
 - support for panel data structures and extended time series coverage
+
 By delivering a well-documented and extensible core tool, the project creates a foundation for ongoing development and collaboration within the R community.
