@@ -2,7 +2,7 @@
 No formal signatories at this stage. The project will be developed in the open, and feedback and contributions from the R community will be actively encouraged.
 
 # Project team
-The project will be delivered by Datacove Ltd, a data and analytics consultancy specialising in reproducible analytical workflows and production-grade R development.
+The project will be delivered by Datacove Ltd, a data and analytics consultancy specialising in reproducible analytical workflows and production-grade R development, using a public GitHub repository with transparent issue tracking and contribution guidelines.
 Datacove has experience delivering and maintaining R-based analytical tools for external organisations including marketing agencies, charities, and research groups.
 
 Datacove will provide ongoing maintenance following the initial release, including addressing bugs, maintaining compatibility with upstream dependencies, and responding to community feedback.
