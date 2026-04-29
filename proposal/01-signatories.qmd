@@ -17,10 +17,10 @@ He has extensive experience working with fragmented, real-world datasets and str
 
 Abbie and Laura are Data Scientists who will support delivery across data preparation, development, testing, and documentation.
 
-They specialises in cleaning, structuring, and standardising complex datasets, ensuring outputs are consistent and analysis-ready. Their experience working with varied and inconsistent data sources directly aligns with the challenges addressed in this project.
+They specialise in cleaning, structuring, and standardising complex datasets, ensuring outputs are consistent and analysis-ready. Their experience working with varied and inconsistent data sources directly aligns with the challenges addressed in this project.
 
 # Contributors
-TBC
+At the time of writing we don't foresee any external contributors outside of the core Datacove team, however once development is complete and pending interest in output usage, we could consider opening the repository to external contributors if in the interests of improving data quality and outputs.
 
 # Consulted
 External contributors will be encouraged to suggest improvements, propose new data sources, and extend the toolkit. This collaborative model supports long-term sustainability. The project is designed to support ongoing academic and applied research use cases, where consistent and reproducible data pipelines are essential.
