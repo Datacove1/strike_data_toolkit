@@ -37,12 +37,12 @@ The project is designed as a focused implementation effort with clearly defined 
 
 | Milestone                | Description                                      | Duration | Cost   |
 |------------------------|--------------------------------------------------|----------|--------|
-| Project setup          | Repository setup, schema design, planning        | 1 day    | £895   |
-| Core development       | Data collection and transformation implementation| 3 days   | £2,685 |
-| Validation & robustness| Error handling, consistency checks               | 1 day    | £895   |
-| Documentation & release| Documentation, testing, refinement               | 2 days   | £1,790 |
+| Project setup          | Repository setup, schema design, planning        | 1 day    | $1,199 |
+| Core development       | Data collection and transformation implementation| 3 days   | $3,597 |
+| Validation & robustness| Error handling, consistency checks               | 1 day    | $1,199 |
+| Documentation & release| Documentation, testing, refinement               | 2 days   | $2,398 |
 
 
-**Total funding requested: £6,265**
+**Total funding requested: $8,393**
 
 No indirect costs, travel expenses, or external services are included.
